@@ -14,7 +14,7 @@ module.exports = function(grunt) {
         },
         'gh-pages': {
             src: [
-                'src/*', 'index.html'
+                'index.html'
             ]
         },
         'replace': {
