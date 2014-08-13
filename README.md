@@ -70,6 +70,12 @@ Falta de metas de curto prazo (1 ou 2 semanas)
 2. Execute _grunt build_ para gerar o livro em HTML ^^
 
 
+## Colaboradores
+
+[Bruno Cupertino](https://github.com/BrunoCupertino)
+José Corsino Dias
+Heber Pereira
+
 ## Licença
 
 [MIT License](http://octavioturra.mit-license.org/) © Octavio Turra.
