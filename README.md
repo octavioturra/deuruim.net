@@ -73,7 +73,9 @@ Falta de metas de curto prazo (1 ou 2 semanas)
 ## Colaboradores
 
 [Bruno Cupertino](https://github.com/BrunoCupertino)
+
 José Corsino Dias
+
 Heber Pereira
 
 ## Licença
