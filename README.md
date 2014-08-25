@@ -15,8 +15,7 @@ Orientação à Procedures
 - baixa testabilidade
 - difícil debug
 - acoplamento
-- não versionada
-- gerenciamento de recursos
+- versionamento
 - fragilização da segurança 
 - duplicidades
 - difícil escalabilidase
