@@ -26,3 +26,9 @@ De repente, alguém vai e faz uma alteração na procedure X e todo o seu sistem
 
 Não, não podemos dizer que isto seja errado, apenas uma ameaça. Às vezes, por questões de desempenho (mais uma vez), é necessário fazer algumas coisas mais "comprimidas", porém, isto é uma prática que torna os programadores carecas e os gerentes possessos.
 
+## Não versiona
+
+Estamos sendo um pouco dramáticos. Dá para versionar a procedure, claro. Se você colocar o código feito em uma pasta e passar a versionar os .SQL, até fica possível. Mas não é como código fonte. O controle é muito mais trabalhoso, depende da interação humana. Organizar as pastas das consultas, saber qual usar e quando usar. Voltar a versão significa ter que consultar o histórico e rodar novamente no banco de dados. Todo esse esforço é desnecessário em um mundo em que a velocidade é tão importante para a competitividade.
+
+Portanto, para que complicar? É claro, se você tiver que usar procedimentos armazenados, por favor, organize-os em pastinhas, com versionamento, com nomes intuitivos. Preencha um controle de versão à cada atualização, no cabeçalho do documento e não esqueça de sempre colocar comentários pertinentes, utilizando sua ferramenta predileta de versionamento.
+
